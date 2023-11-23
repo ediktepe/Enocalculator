@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+![alt text](https://github.com/ediktepe/Enocalculator/blob/master/screenshots/Dark-Mode.png)
+![alt text](https://github.com/ediktepe/Enocalculator/blob/master/screenshots/Light-Mode.png)
+![alt text](https://github.com/ediktepe/Enocalculator/blob/master/screenshots/History.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
